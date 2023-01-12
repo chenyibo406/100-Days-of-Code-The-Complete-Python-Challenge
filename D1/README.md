@@ -1,0 +1,11 @@
+Day01
+-Printing to the Console in Python
+-The print() function prints the specified message to the
+-screen, or other standard output device.
+-String Manipulation and Code Intelligence
+-Debugging
+-The Python Input Function
+-The input() function allows user input.
+-Python Variables
+-Variable Naming
+-finish the interactive coding exercise.
